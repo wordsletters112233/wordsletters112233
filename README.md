@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wordsletters112233
-- 👀 I’m interested in physics and quantum computing
+- 👀 I’m interested in physics
 - 🌱 I’m currently learning the basics: preferably python and c++
 - 💞️ I’m looking to collaborate on anything that will develop my skills
 - 📫 How to reach me: (idk)
